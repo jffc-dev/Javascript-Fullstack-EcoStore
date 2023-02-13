@@ -1,0 +1,24 @@
+{
+  "name": "ecostore-api",
+  "version": "1.0.0",
+  "description": "sale of plants",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jffc-dev/Javascript-Fullstack-EcoStore.git"
+  },
+  "keywords": [
+    "api",
+    "eco",
+    "store"
+  ],
+  "author": "Javier Fernando Flores Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jffc-dev/Javascript-Fullstack-EcoStore/issues"
+  },
+  "homepage": "https://github.com/jffc-dev/Javascript-Fullstack-EcoStore#readme",
+}
