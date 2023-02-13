@@ -21,4 +21,7 @@
     "url": "https://github.com/jffc-dev/Javascript-Fullstack-EcoStore/issues"
   },
   "homepage": "https://github.com/jffc-dev/Javascript-Fullstack-EcoStore#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
 }
