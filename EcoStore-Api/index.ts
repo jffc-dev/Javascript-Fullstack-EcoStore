@@ -8,7 +8,7 @@ const port: string = (process.env.PORT === null || process.env.PORT === undefine
 app.use(express.static(path.join(dirname, '/public/dist')))
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Express + TypeScript Server')
+  res.sendFile(path.join(dirname, '/public/dist/index.html'))
 })
 
 app.listen(port, () => {
